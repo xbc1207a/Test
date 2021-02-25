@@ -29,5 +29,7 @@ int main()
 
     cout<<"Hi CPP"<<endl;
 
+    cout<<"In Ubuntu"<<endl;
+
     return 0;
 }
