@@ -25,5 +25,7 @@ int main(){
     int a[3] = {2, 3, 5};
     int c = test(a, 3);
 
+    cout<<"test git stash"<<endl;
+
     return 0;
 }
